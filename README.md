@@ -5,7 +5,7 @@ The objective of this activity is to build a Logistic Regression model to classi
 
 ## 2. Dataset Information
 - **Dataset Name:** Spam Email Dataset
-- **Source:** [Kaggle – Spam Email Dataset](https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset)
+- **Source:** https://www.kaggle.com/datasets/nanditapore/spam-email-dataset
 - **Total Records:** 6000
 - **Total Columns:** 16
 - **Target Variable:** Spam Indicator
